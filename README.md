@@ -1,4 +1,4 @@
-# White Paper Draft Outline NexPlay
+# White Paper Summary for "art-de-la-rue"
 
 ## 1. Introduction:
 
@@ -6,12 +6,12 @@
 
 ## 2. Platform Overview:
 
-  •	Homepage: Features the latest tokenized art pieces and offers a brief mission statement.
-	•	Art Gallery Page: An expansive digital showcase of all tokenized street artworks.
-	•	Art Details Page: Delve deeper into the specifics of an artwork, learn about its origins, and understand the artist's vision.
-	•	Artist Details Page: Explore the life and works of individual artists, understand their inspirations, and journey.
-	•	Submission/Minting Page: A dedicated space for artists to tokenize their street artworks, making them available to the global audience.
-	•	User Profile & Authentication: Seamless user experience with profiles, ensuring security and ease of transactions.
+*	Homepage: Features the latest tokenized art pieces and offers a brief mission statement.
+*	Art Gallery Page: An expansive digital showcase of all tokenized street artworks.
+*	Art Details Page: Delve deeper into the specifics of an artwork, learn about its origins, and understand the artist's vision.
+*	Artist Details Page: Explore the life and works of individual artists, understand their inspirations, and journey.
+*	Submission/Minting Page: A dedicated space for artists to tokenize their street artworks, making them available to the global audience.
+*	User Profile & Authentication: Seamless user experience with profiles, ensuring security and ease of transactions.
 
 ## 3. Vision:
 
